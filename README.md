@@ -1,2 +1,11 @@
-# smart-unit-converter-tool
-A simple unit converter project
+# Unit Converter
+
+Convert between different units of measurement.
+
+> hack the planet
+
+## Usage
+
+```
+python converter.py
+```
